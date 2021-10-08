@@ -7,15 +7,6 @@ end tb_rtl;
 
 architecture Behavioral of tb_rtl is
 
---component top_module is
---    port (x: in std_logic_vector(7 downto 0);
---          clk: in std_logic;
---          reset: in std_logic;
---          start: in std_logic;
---          ready: out std_logic;
---          media: out std_logic_vector(7 downto 0)  
---    );
---end component;
 component operacional is
     Port (x: in std_logic_vector(7 downto 0);
           clk: in std_logic;
