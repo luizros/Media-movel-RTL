@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:47 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sun Sep 19 16:28:19 2021
+# Process ID: 307780
+# Current directory: /home/luiz/Documentos/UnB/PED2/Lab2/projeto_rtl/mediaRTL/mediaRTL.sim/sim_1/behav/xsim
+# Command line: wbtcv -mode batch -source /home/luiz/Documentos/UnB/PED2/Lab2/projeto_rtl/mediaRTL/mediaRTL.sim/sim_1/behav/xsim/xsim.dir/tb_rtl_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /home/luiz/Documentos/UnB/PED2/Lab2/projeto_rtl/mediaRTL/mediaRTL.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: /home/luiz/Documentos/UnB/PED2/Lab2/projeto_rtl/mediaRTL/mediaRTL.sim/sim_1/behav/xsim/webtalk.jou
+#-----------------------------------------------------------
+source /home/luiz/Documentos/UnB/PED2/Lab2/projeto_rtl/mediaRTL/mediaRTL.sim/sim_1/behav/xsim/xsim.dir/tb_rtl_behav/webtalk/xsim_webtalk.tcl -notrace

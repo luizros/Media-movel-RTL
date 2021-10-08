@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../mediaRTL.srcs/sources_1/new/controle.vhd" \
+"../../../../mediaRTL.srcs/sources_1/new/operacional.vhd" \
+"../../../../mediaRTL.srcs/sim_1/new/tb_rtl.vhd" \
+
+# Do not sort compile order
+nosort
