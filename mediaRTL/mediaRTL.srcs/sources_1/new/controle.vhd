@@ -208,5 +208,4 @@ begin
     end if;
     end process;
     ready <= ssready;
- --   ready <= ssready;
 end Behavioral;
